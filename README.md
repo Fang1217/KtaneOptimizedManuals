@@ -14,7 +14,7 @@ List for manuals are as follows:-
 8. Ultimate Cycle
 
 **PDF Versions:**
-1. Ultimate Cipher
+1. Ultimate Cycle
 2. Scalar Dials
 
 **Others:**
